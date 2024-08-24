@@ -1,1 +1,1 @@
-"Trigger workflow re-run with minor change"
+"Trigger workflow re-run with minor changes"
